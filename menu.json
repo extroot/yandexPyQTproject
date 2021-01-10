@@ -1,0 +1,348 @@
+{
+  "items": [
+    {
+      "text": "3x3x3 - Метод CFOP",
+      "level": 1,
+      "expandable": true,
+      "expanded": true,
+      "sub_items": [
+        {
+          "text": "F2L - Первые два слоя",
+          "level": 2,
+          "expandable": false,
+          "selected": true,
+          "mode": "f2l"
+        },
+        {
+          "text": "OLL - Ориентация последнего слоя",
+          "level": 2,
+          "expandable": false,
+          "mode": "oll"
+        },
+        {
+          "text": "PLL - Перестановка последнего слоя",
+          "level": 2,
+          "expandable": false,
+          "mode": "pll"
+        }
+      ]
+    },
+    {
+      "text": "3x3x3 - Одной рукой",
+      "level": 1,
+      "expandable": true,
+      "sub_items": [
+        {
+          "text": "Левая рука",
+          "level": 2,
+          "expandable": true,
+          "sub_items": [
+            {
+              "text": "OH OLL - OLL Одной рукой",
+              "level": 3,
+              "expandable": false,
+              "mode": "oh_oll_lh"
+            },
+            {
+              "text": "OH PLL - PLL Одной рукой",
+              "level": 3,
+              "expandable": false,
+              "mode": "oh_pll_lh"
+            },
+            {
+              "text": "OH COLL - COLL Одной рукой",
+              "level": 3,
+              "expandable": false,
+              "mode": "oh_coll_lh"
+            }
+          ]
+        },
+        {
+          "text": "Правая рука",
+          "level": 2,
+          "expandable": true,
+          "sub_items": [
+            {
+              "text": "OH OLL - OLL Одной рукой",
+              "level": 3,
+              "expandable": false,
+              "mode": "oh_oll_rh"
+            },
+            {
+              "text": "OH PLL - PLL Одной рукой",
+              "level": 3,
+              "expandable": false,
+              "mode": "oh_pll_rh"
+            },
+            {
+              "text": "OH COLL - COLL Одной рукой",
+              "level": 3,
+              "expandable": false,
+              "mode": "oh_coll_rh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "3x3x3 - Продвинутые методы",
+      "level": 1,
+      "expandable": true,
+      "sub_items": [
+        {
+          "text": "LS+LL - Последние пара и слой",
+          "level": 2,
+          "expandable": true,
+          "sub_items": [
+            {
+              "text": "VHF2L - Vandenbergh-Harris F2L",
+              "level": 3,
+              "expandable": false,
+              "mode": "vh"
+            },
+            {
+              "text": "OPF2L - Orientation-Preserving F2L",
+              "level": 3,
+              "expandable": false,
+              "mode": "op"
+            },
+            {
+              "text": "OLE - Ориентация последнего ребра",
+              "level": 3,
+              "expandable": false,
+              "mode": "ole"
+            },
+            {
+              "text": "OLC - Ориентация последнего угла",
+              "level": 3,
+              "expandable": false,
+              "mode": "olc"
+            },
+            {
+              "text": "WV - Winter Variation",
+              "level": 3,
+              "expandable": false,
+              "mode": "wv"
+            },
+            {
+              "text": "SV - Summer Variation",
+              "level": 3,
+              "expandable": false,
+              "mode": "sv"
+            },
+            {
+              "text": "VLS - Valk Last Slot",
+              "level": 3,
+              "expandable": false,
+              "mode": "vls"
+            },
+            {
+              "text": "Magic Wondeful",
+              "level": 3,
+              "expandable": false,
+              "mode": "mw"
+            }
+          ]
+        },
+        {
+          "text": "LL - Последний слой",
+          "level": 2,
+          "expandable": true,
+          "sub_items": [
+            {
+              "text": "COLL - Перестановка углов и OLL",
+              "level": 3,
+              "expandable": false,
+              "mode": "coll"
+            },
+            {
+              "text": "ELL - Ребра последнего слоя",
+              "level": 3,
+              "expandable": false,
+              "mode": "ell"
+            },
+            {
+              "text": "OELLCP - EO and CP",
+              "level": 3,
+              "expandable": false,
+              "mode": "oellcp"
+            },
+            {
+              "text": "PLL Skip Cases",
+              "level": 3,
+              "expandable": false,
+              "mode": "pll_sc"
+            }
+          ]
+        },
+        {
+          "text": "ZBLL - Zborowski-Bruchem LL",
+          "level": 2,
+          "expandable": true,
+          "sub_items": [
+            {
+              "text": "Уши",
+              "level": 3,
+              "expandable": false,
+              "mode": "zbll_t"
+            },
+            {
+              "text": "Глаза",
+              "level": 3,
+              "expandable": false,
+              "mode": "zbll_u"
+            },
+            {
+              "text": "Восьмерки",
+              "level": 3,
+              "expandable": false,
+              "mode": "zbll_l"
+            },
+            {
+              "text": "Двойные глаза",
+              "level": 3,
+              "expandable": false,
+              "mode": "zbll_h"
+            },
+            {
+              "text": "Вертолеты",
+              "level": 3,
+              "expandable": false,
+              "mode": "zbll_pi"
+            },
+            {
+              "text": "Рыбки",
+              "level": 3,
+              "expandable": false,
+              "mode": "zbll_sune"
+            },
+            {
+              "text": "Антирыбки",
+              "level": 3,
+              "expandable": false,
+              "mode": "zbll_antisune"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "3x3x3 - Узоры",
+      "level": 1,
+      "expandable": false,
+      "mode": "uz"
+    },
+    {
+      "text": "2x2x2",
+      "level": 1,
+      "expandable": true,
+      "sub_items": [
+        {
+          "text": "Ортега (Varasano)",
+          "level": 2,
+          "expandable": false,
+          "mode": "ortega"
+        },
+        {
+          "text": "CLL - Перестановка углов и OLL",
+          "level": 2,
+          "expandable": false,
+          "mode": "cll"
+        },
+        {
+          "text": "EG1 - CLL and direct swap on the bottom",
+          "level": 2,
+          "expandable": false,
+          "mode": "eg1_"
+        },
+        {
+          "text": "EG2 - CLL and diagonal swap on the bottom",
+          "level": 2,
+          "expandable": false,
+          "mode": "eg2_"
+        },
+        {
+          "text": "LEG1 - Left EG1",
+          "level": 2,
+          "expandable": false,
+          "mode": "leg1_"
+        },
+        {
+          "text": "TCLL+ - Twisty CLL (Угол справа)",
+          "level": 2,
+          "expandable": false,
+          "mode": "tcllp"
+        }
+      ]
+    },
+    {
+      "text": "4x4x4 - Паритетный OLL",
+      "level": 1,
+      "expandable": false,
+      "mode": "poll"
+    },
+    {
+      "text": "Мегаминкс - Послойный метод",
+      "level": 1,
+      "expandable": true,
+      "sub_items": [
+        {
+          "text": "OLL - Ориентация последнего слоя",
+          "level": 2,
+          "expandable": false,
+          "mode": "mg_oll"
+        },
+        {
+          "text": "PLL - Перестановка последнего слоя",
+          "level": 2,
+          "expandable": false,
+          "mode": "mg_pll"
+        }
+      ]
+    },
+    {
+      "text": "Пирамидка",
+      "level": 1,
+      "expandable": true,
+      "sub_items": [
+        {
+          "text": "L3C - Последние 3 центра",
+          "level": 2,
+          "expandable": false,
+          "mode": "l3c"
+        },
+        {
+          "text": "L3E - Последние 3 ребра",
+          "level": 2,
+          "expandable": false,
+          "mode": "l3e"
+        }
+      ]
+    },
+    {
+      "text": "Square-1",
+      "level": 1,
+      "expandable": true,
+      "sub_items": [
+        {
+          "text": "EO - Edges Orientation",
+          "level": 2,
+          "expandable": false,
+          "mode": "eo"
+        },
+        {
+          "text": "CP - Corners Permutation",
+          "level": 2,
+          "expandable": false,
+          "mode": "cp"
+        },
+        {
+          "text": "EP - Edges Permutation",
+          "level": 2,
+          "expandable": false,
+          "mode": "ep"
+        }
+      ]
+    }
+  ]
+}
